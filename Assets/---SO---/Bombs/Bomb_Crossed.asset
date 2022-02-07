@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 344afacba2819e7479f371d15f95376e, type: 3}
+  m_Name: Bomb_Crossed
+  m_EditorClassIdentifier: 
+  combine:
+  - {fileID: 11400000}
+  combinedBomb: {fileID: 2929807925787930720, guid: 6dd1fcd90bf11f7499a2b0c0ad3bb3a0, type: 3}

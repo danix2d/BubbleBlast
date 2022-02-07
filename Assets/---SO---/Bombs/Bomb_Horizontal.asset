@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 344afacba2819e7479f371d15f95376e, type: 3}
+  m_Name: Bomb_Horizontal
+  m_EditorClassIdentifier: 
+  combine:
+  - {fileID: 11400000}
+  combinedBomb: {fileID: 7917022358664971660, guid: a2898499722a98443a7c93975c7538ef, type: 3}
